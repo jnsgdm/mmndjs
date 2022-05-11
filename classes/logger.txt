@@ -1,0 +1,7 @@
+{"totalMemory":"7847 MB","freeMemory":"4932 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
+{"totalMemory":"7847 MB","freeMemory":"4930 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
+{"totalMemory":"7847 MB","freeMemory":"4920 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
+{"totalMemory":"7847 MB","freeMemory":"4919 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
+{"totalMemory":"7847 MB","freeMemory":"4919 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
+{"totalMemory":"7847 MB","freeMemory":"4925 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
+{"totalMemory":"7847 MB","freeMemory":"4924 MB","percentUsage":"62 %","date":"11/5/2022 20:11"}
